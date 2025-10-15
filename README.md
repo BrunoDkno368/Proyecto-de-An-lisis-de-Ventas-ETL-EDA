@@ -1,4 +1,4 @@
-# Proyecto-de-Analisis-de-Ventas-ETL-EDA :mega: 
+# Analisis de Ventas (ETL-EDA) :mega: 
 
 ## Descripcion general :pencil2:
 
